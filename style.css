@@ -1,0 +1,15 @@
+.contenedor {
+            display: flex;
+        }
+
+        .contenedor div {
+            width: 50%;
+        }
+
+        .contenedor img {
+            width: 100%;
+            height: auto;
+        }
+h1{
+    text-align: center;
+}
